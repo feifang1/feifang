@@ -1,15 +1,12 @@
 ---
 title: "The effect of heterogeneity on flocking behavior and systemic risk"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2015-10-01-paper-title-number-3
+date: 2017-10-01
+venue: 'Statistics & RiskModeling, Volume 34: Issue 3-4'
+citation: 'Fei Fang, Yiwei Sun, Konstantinos Spiliopoulos. “The Effect on Heterogeneity on Flocking
+Behavior and System Risk” Statistics & RiskModeling, Volume 34: Issue 3-4 (2017)'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/abs/1607.08287)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
