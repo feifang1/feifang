@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fei Fang"
 title_separator          : "-"
 name                     : &name "Fei Fang"
-description              : &description "Third Year PhD student in decision sciences"
+description              : &description "Third Year PhD student in Decision Sciences at Duke University"
 url                      : https://feifang1.github.io/feifang/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "feifang1.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Fei Fang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Third Year PhD student in Decision Sciences at Duke Universit"
+  location         : "Durham, NC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
