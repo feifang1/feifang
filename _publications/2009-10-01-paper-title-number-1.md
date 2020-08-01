@@ -1,6 +1,6 @@
 ---
 title: "The effect of heterogeneity on flocking behavior and systemic risk"
-collection: publications
+collection: arXiv preprint
 date: 2017-10-01
 paperurl: 'https://arxiv.org/abs/1607.08287'
 ---
