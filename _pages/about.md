@@ -24,7 +24,7 @@ What's new
 
 * 08/06/2020: Presentation "Uniform Regret bound for Quantile Regression Tree Process in Online learning" in session "Modern Machine Learning" in JSM. 
 
-Publication
+Publications
 ------
 1. Fei Fang, Daniel L. Sussman, Vince Lyzinski. “Tractable Graph Matching via Soft Seeding”
 arXiv preprint:1807.09299 (2018). [[arXiv]](https://arxiv.org/abs/1807.09299)
