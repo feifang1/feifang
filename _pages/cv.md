@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D student in Decision Sciences, Fuqua School of Business at Duke university, Sep 2017-Present
+* Ph.D Student in Statistics, Boston University, Sep 2016-Jun 2017 (Leave because of family reason)
+* M.A. in Statistics, Boston University, Sep 2014- May 2016
+* B.A. in Economics and Software Engineering, Guangdong University of Foreign Studies, Sep 2010- June 2014
 
 Work experience
 ======
