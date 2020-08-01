@@ -1,11 +1,10 @@
 ---
-title: "The effect of heterogeneity on flocking behavior and systemic risk"
+title: "Tractable Graph Matching via Soft Seeding"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-date: 2017-10-01
-venue: 'Statistics & RiskModeling, Volume 34: Issue 3-4'
-citation: 'Fei Fang, Yiwei Sun, Konstantinos Spiliopoulos. “The Effect on Heterogeneity on Flocking
-Behavior and System Risk” Statistics & RiskModeling, Volume 34: Issue 3-4 (2017)'
+date: 2018-10-01
+venue: 'Preprint'
+citation: 'Fei Fang, Daniel L. Sussman, Vince Lyzinski. “Tractable Graph Matching via Soft Seeding”: preprint (2018)'
 ---
 
-[Download paper here](https://arxiv.org/abs/1607.08287)
+[Download paper here](https://arxiv.org/abs/1807.09299)
