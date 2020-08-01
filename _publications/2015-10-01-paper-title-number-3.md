@@ -2,7 +2,7 @@
 title: "Tractable Graph Matching via Soft Seeding"
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2018-10-01
-venue: 'Preprint'
+venue: 'arXiv Preprint'
 citation: 'Fei Fang, Daniel L. Sussman, Vince Lyzinski. “Tractable Graph Matching via Soft Seeding”: preprint (2018)'
 ---
 
