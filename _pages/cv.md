@@ -16,26 +16,14 @@ Education
 * M.A. in Statistics, Boston University, Sep 2014- May 2016
 * B.A. in Economics and Software Engineering, Guangdong University of Foreign Studies, Sep 2010- June 2014
 
-Work experience
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2019: Teaching Assistant
+  * Decision 520Q and 618: Data Analytics for Business
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer skills: R, Latex 
 
 Publications
 ======
