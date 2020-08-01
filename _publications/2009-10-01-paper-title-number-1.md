@@ -1,3 +1,7 @@
+
+Fei Fang, Yiwei Sun, Konstantinos Spiliopoulos. “The Effect on Heterogeneity on Flocking
+Behavior and System Risk” Statistics & RiskModeling, Volume 34: Issue 3-4 (2017).
+
 ---
 title: "The Effect on Heterogeneity on Flocking Behavior and System Risk"
 permalink: /publication/2009-10-01-paper-title-number-1
