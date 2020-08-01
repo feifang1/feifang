@@ -2,7 +2,7 @@
 title: "The effect of heterogeneity on flocking behavior and systemic risk"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2017
+date: 2017-10-01
 paperurl: 'https://arxiv.org/abs/1607.08287'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
