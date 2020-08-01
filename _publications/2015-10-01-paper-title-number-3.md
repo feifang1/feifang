@@ -1,6 +1,5 @@
 ---
 title: "Tractable Graph Matching via Soft Seeding"
-collection: preprint
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2018-10-01
 venue: 'Preprint'
