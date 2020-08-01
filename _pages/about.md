@@ -18,12 +18,11 @@ I am currently working on developing methodology for estimating treatment effect
 
 What's new 
 ======
-* 11/08/2020: Presentation "Uniform Regret bound for Quantile Regression Tree Process in Online learning" in INFORMS
+* 11/08/2020: Presentation "Uniform Regret bound for Quantile Regression Tree Process in Online learning" in INFORMS.
 
 * Fall 2020: Teaching EGRMGMT 580 “Decision Models". 
 
-* 08/06/2020: Presentation "Uniform Regret bound for Quantile Regression Tree Process in Online learning" in session "Modern Machine Learning" of JSM. 
-
+* 08/06/2020: Presentation "Uniform Regret bound for Quantile Regression Tree Process in Online learning" in session "Modern Machine Learning" in JSM. 
 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
