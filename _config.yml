@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Fei Fang"
   avatar           : "profile_photo.jpeg"
-  bio              : "email: ff33@duke.edu"  # "Third Year PhD student in Decision Sciences at Duke Universit"
+  bio              : "Email: ff33@duke.edu"  # "Third Year PhD student in Decision Sciences at Duke Universit"
   location         : "Durham, NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F5rT2vCBhkJL3cScLJWwDv7a0i9-vwZVgtWZScqO52y8kA8z-bJYl9D5KzIvT7NoIAxkvnROsXjHPYvyjrb15Sw4oPxFg&user=S3UveZEAAAAJ"
   email            :  "ff33@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
