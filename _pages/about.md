@@ -18,11 +18,11 @@ I am currently working on developing methodology for estimating treatment effect
 
 What's new 
 ======
-* 11/08/2020: Presentation "Uniform Regret bound for Quantile Regression Tree Process in Online learning" in INFORMS.
+* 11/08/2020: Presentation "A uniform Regret bound for Quantile Regression Tree Process in Online learning" in INFORMS.
 
 * Fall 2020: Teaching EGRMGMT 580 “Decision Models". 
 
-* 08/06/2020: Presentation "Uniform Regret bound for Quantile Regression Tree Process in Online learning" in session "Modern Machine Learning" in JSM. 
+* 08/06/2020: Presentation "A uniform Regret bound for Quantile Regression Tree Process in Online learning" in session "Modern Machine Learning" in JSM. 
 
 Publications
 ------
