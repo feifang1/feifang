@@ -14,7 +14,7 @@ Research Interests
 ======
 My research interest lies in empirical process, methodology and applications on network analysis and causal inference. In particular, I am interested in the convergence rate of error measures for machine learning algortihms by using tools in empirical process. 
 
-I am currently working on developing methodology for estimating treatment effect by matching method under network interference with [Prof. Alexandre Belloni](https://faculty.fuqua.duke.edu/~abn5/belloni-index.html?_ga=2.245151173.1198594769.1596235423-1333425513.1594055969) and [Prof. Alexander Volfovsky](https://volfovsky.github.io). Meanwhile, I am trying to obtain estimator for the causal effect of name order on election ballot with clustered data with [Prof. Alessandro Arlotto](http://people.duke.edu/~aa249/?_ga=2.206868819.1198594769.1596235423-1333425513.1594055969).
+I am currently working on developing methodology for estimating treatment effect by matching method under network interference with [Prof. Alexandre Belloni](https://faculty.fuqua.duke.edu/~abn5/belloni-index.html?_ga=2.245151173.1198594769.1596235423-1333425513.1594055969) and [Prof. Alexander Volfovsky](https://volfovsky.github.io). Meanwhile, I am working on estimating causal effect of name order on election ballot with clustered data with [Prof. Alessandro Arlotto](http://people.duke.edu/~aa249/?_ga=2.206868819.1198594769.1596235423-1333425513.1594055969).
 
 What's new 
 ======
