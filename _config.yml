@@ -22,9 +22,9 @@
 title: Fei Fang
 email: fei.fang@yale.edu
 description: Fei Fang’s personal website
-baseurl: ""
-url: ""
-github_username:  fayfang34
+baseurl: "/feifang"
+url: "https://feifang1.github.io"
+github_username:  feifang1
 google_scholar: "https://scholar.google.com/citations?user=S3UveZEAAAAJ&hl=en"
 
 # Google analytics ID: Uncomment and your own, if you like
