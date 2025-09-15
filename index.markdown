@@ -5,6 +5,10 @@
 layout: default
 ---
 
+<img src="{{ '/img/photo_web.jpeg' | relative_url }}"
+     alt="Fei Fang"
+     style="float:right; margin-left:1rem; margin-bottom:.5rem; max-width:180px; border-radius:50%;">
+
 # About me
 
 Welcome to my website!
@@ -14,6 +18,8 @@ I am currently a postdoctoral associate in the Department of Biostatistics at Ya
 **<span style="font-size:1.5em;color:#191970">
 I will be on the job market this year and welcome opportunities to connect! Please feel free to reach out if you’d like to have a chat.
 </span>**
+
+<div style="clear:both;"></div>
 
 ## Research Interests
 
