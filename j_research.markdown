@@ -10,7 +10,7 @@ permalink: /research/
 
 <li><b>Fang, F.</b>, &amp; Forastiere, L. (2025). 
 Discussion on “Causal inference with misspecified network interference structure” by Bar Weinstein and Daniel Nevo. 
-<i>Biometrics</i>. <b>Accepted.</b> 
+<i>Biometrics</i>.
 <a href="https://biometrics.biometricsociety.org/home/papers-to-appear#h.p_Zg8KcUOMe_XZ">[Link]</a>
 </li>
 
