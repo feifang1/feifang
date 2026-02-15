@@ -9,6 +9,12 @@ permalink: /research/
 <ol reversed>
 
 <li><b>Fang, F.</b>, &amp; Forastiere, L. (2025). 
+Discussion on “Causal inference with misspecified network interference structure” by Bar Weinstein and Daniel Nevo. 
+<i>Biometrics</i>. <b>Accepted.</b> 
+<a href="https://biometrics.biometricsociety.org/home/papers-to-appear#h.p_Zg8KcUOMe_XZ">[Link]</a>
+</li>
+
+<li><b>Fang, F.</b>, &amp; Forastiere, L. (2025). 
 Design-based weighted regression estimators for average and conditional spillover effects. 
 <i>arXiv</i>. 
 <a href="https://www.dropbox.com/scl/fi/95zo9zo40gvdpc3ne6b00/Design-Based-Weighted-Regression-Estimators-for-Average-and-Conditional.pdf?rlkey=9zj3vuwz1ldphz32e4omdix8w&st=dmkkmuva&dl=0">[Online]</a> 
