@@ -8,6 +8,14 @@ permalink: /research/
 
 <ol reversed>
 
+<li><b>Fang, F.</b>, &amp; Forastiere, L. (2025). 
+Design-based weighted regression estimators for average and conditional spillover effects. 
+<i>arXiv</i>. 
+<a href="https://www.dropbox.com/scl/fi/95zo9zo40gvdpc3ne6b00/Design-Based-Weighted-Regression-Estimators-for-Average-and-Conditional.pdf?rlkey=9zj3vuwz1ldphz32e4omdix8w&st=dmkkmuva&dl=0">[Online]</a> 
+| 
+<a href="https://www.dropbox.com/scl/fi/jih3b4r5kx9nghi7gfqu9/Regression_based_method_for_spillover_effect_12_08.pdf?rlkey=82qad3bissw97egw4s9jjvaa4&st=tzy3ld73&dl=0">[Slides]</a>
+</li>
+
   <li><b>Fang, F.</b>, Bai, S., & Wang, T. (2025). Structural causal models for extremes: An approach based on exponent measures. <i>arXiv</i>. <a href="https://arxiv.org/abs/2508.00223">[Online]</a></li>
   
   <li><b>Fang, F.</b>, Airoldi, E. M., & Forastiere, L. (2025). Inward and outward spillover effects of one unit’s treatment on network neighbors under partial interference. <i>arXiv</i>. <a href="https://arxiv.org/abs/2506.06615">[Online]</a></li>
