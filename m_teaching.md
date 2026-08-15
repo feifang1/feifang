@@ -6,6 +6,7 @@ permalink: /teaching/
 
 # Teaching
 
+- **Instructor**, QMM 2400: Statistical Methods for Business I, Oakland University, Fall 2026
 - **Instructor**, EGRMGMT 580: Decision Models, Duke University, Fall 2020  
 - **Teaching Assistant**, DECISION 618: Decision Sciences for Business, Duke University, Fall 2019, 2020, 2021  
 - **Teaching Assistant**, DECISION 561F: Foundations of Decision Sciences, Duke University, Fall 2019, 2020, 2021  
