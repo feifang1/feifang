@@ -29,7 +29,7 @@ My research primarily focuses on causal inference under network interference. Sp
 
 Beyond these core areas, I am also exploring causal discovery for extreme events. On the applied side, I am particularly interested in leveraging causal inference methods to support social scientists and medical researchers in deriving robust and trustworthy conclusions for their research problems.
 
-I’d be delighted to [connect](mailto:fei.fang@yale.edu) if any of these interest you!
+I’d be delighted to [connect](mailto:feifang@oakland.edu) if any of these interest you!
 
 ## News
 
